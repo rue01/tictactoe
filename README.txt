@@ -1,0 +1,1 @@
+Tic Tac Toe app written in C# using WinForms. This is a two player tic tac toe game where the players can see their score and whose turn it is to play.
