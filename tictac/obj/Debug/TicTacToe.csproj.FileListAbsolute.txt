@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\bin\Debug\tictac.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\obj\Debug\tictac.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\obj\Debug\tictac.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\bin\Debug\tictac.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\bin\Debug\tictac.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\obj\Debug\TicTacToe.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\TicTacToe\tictac\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
